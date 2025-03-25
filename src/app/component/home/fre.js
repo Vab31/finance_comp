@@ -15,9 +15,9 @@ export default function Fre() {
 
   return (
     <div>
-      <section className=" bg-gray-100">
+      <section className=" bg-black text-white">
         <div className="container  px-6 py-10 mx-auto">
-          <h1 className="text-2xl font-semibold text-left text-gray-800 lg:text-6xl">
+          <h1 className="text-2xl font-semibold text-left text-white lg:text-6xl">
             Frequently asked questions
           </h1>
 
@@ -57,7 +57,7 @@ export default function Fre() {
                 data-aos="zoom-in" data-aos-duration="2500"
               >
                 <button className="flex items-center justify-between w-full p-8">
-                  <h1 className="font-semibold text-2xl text-gray-700"  dangerouslySetInnerHTML={{
+                  <h1 className="font-semibold text-2xl text-white"  dangerouslySetInnerHTML={{
         __html: item.question.replace(/<span style={{ color: 'rgb\(20, 143, 128\)' }}>ai<\/span>/g, '<span style="color:rgb(20, 143, 128);">ai</span>')
       }}></h1>
 
@@ -81,7 +81,7 @@ export default function Fre() {
   <div>
     <hr className="border-gray-700" />
     <p
-      className="p-8 text-xl text-gray-900 text-left"
+      className="p-8 text-xl text-white text-left"
       dangerouslySetInnerHTML={{
         __html: item.answer.replace(/<span style={{ color: 'rgb\(20, 143, 128\)' }}>ai<\/span>/g, '<span style="color:rgb(20, 143, 128);">ai</span>')
       }}
