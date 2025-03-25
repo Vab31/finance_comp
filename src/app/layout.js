@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Essay competetion",
-  description: "Copetition by next-app",
+  title: "Essay Competition",
+  description: "Finance Essay Competition with Olive School",
 };
 
 export default function RootLayout({ children }) {
