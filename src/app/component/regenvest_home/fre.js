@@ -24,29 +24,29 @@ export default function Fre() {
           <div className="mt-12 space-y-8">
             {[
               {
-                question: `01. What is <span style={{ color: 'rgb(20, 143, 128)' }}>ai</span>?`,
+                question: `01. Who can participate in the competition?`,
                 answer:
-                  `<span style={{ color: 'rgb(20, 143, 128)' }}>ai</span> is a market place that allows users to connect with anyone, anytime, anywhere for any personal and professional queries alike.`,
+                  `Students from 9 to 12 grades are welcome to participate. The competition is open to all students who are passionate about finance, research, and analytical writing.`,
               },
               {
-                question: '02. How can I get monetised on the platform?',
+                question: 'Q2: Is there a participation fee?',
                 answer:
-                  `<span style={{ color: 'rgb(20, 143, 128)' }}>ai</span> gives the flexibility to anyone to determine the value of their services. We just charge a flat 20% platform fee to give a seamless experience for all users.`,
+                  `No, there is no participation fee. The competition is free and open to all eligible students.`,
               },
               {
-                question: `03. What kind of services can be offered on .<span style={{ color: 'rgb(20, 143, 128)' }}>ai</span>?`,
+                question: `Q3: What is the word limit for submissions?`,
                 answer:
-                  'You can offer services based on your expertise which can range from business development, marketing, career advice, mental health and more.',
+                  'Essays should be between 500 to 1000 words, ensuring a well-researched and structured argument.',
               },
               {
-                question: '04. Can I host seminars and workshops on the platform?',
+                question: 'Q4: What is the last date for submission?',
                 answer:
-                  'The Unishow feature enables users to host live online seminars, workshops, or presentations on various topics using the platform’s tools and resources.',
+                  'The final submission deadline is [mention the exact date]. Participants are encouraged to submit their essays before the deadline to allow for any revisions if needed.',
               },
               {
-                question: '05. How are payments processed on the platform?',
+                question: '05: When will the winners be announced?',
                 answer:
-                  `<span style={{ color: 'rgb(20, 143, 128)' }}>ai</span> uses a secure payment system where users can make transactions using credit/debit cards, digital wallets, or other accepted payment methods to add money to their wallet.`,
+                  `The winners will be announced on [mention announcement date], following a thorough evaluation by our panel of judges. Keep an eye on our website and official communications for updates!`,
               },
             ].map((item, index) => (
               <div
