@@ -21,8 +21,11 @@ export default function Event() {
               for exciting rewards.
             </p>
             <div className="flex justify-center">
-              <button className="inline-flex text-white bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-950 rounded-xl text-lg">
+              <button className="inline-flex text-white bg-gray-800 border-0  py-2 px-6 focus:outline-none hover:bg-gray-950 rounded-xl text-lg">
                 Register Now
+              </button>
+              <button className="inline-flex text-white bg-gray-800 border-0 mx-2 py-2 px-6 focus:outline-none hover:bg-gray-950 rounded-xl text-lg">
+                Learn More
               </button>
             </div>
           </div>

@@ -16,9 +16,10 @@ export default function Nav() {
       {/* <a className="mr-5 hover:text-gray-900 hover:cursor-pointer">Events</a> */}
       <a className="mr-5 hover:text-gray-900 hover:cursor-pointer" href='/regenvest'>ReGenVest</a>
     </nav>
+    <a href='https://docs.google.com/forms/d/e/1FAIpQLScrDPfVkT2_cd-gPOFke3YqXT1Tp8xfeDH2iQiuzkxuYMhf-g/viewform'>
     <button className="inline-flex items-center bg-red-400 border-0 py-1 px-3 text-white focus:outline-none hover:bg-red-600 rounded text-base mt-4 md:mt-0">Register 
-      
     </button>
+    </a>
   </div>
 </header>
     </div>
