@@ -22,7 +22,7 @@ export default function Event() {
             </p>
             <div className="flex justify-center">
               <button className="inline-flex text-white bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-950 rounded-xl text-lg">
-                Learn More
+                Register Now
               </button>
             </div>
           </div>

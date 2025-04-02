@@ -11,10 +11,10 @@ export default function Nav() {
      <img className='sm:w-[10%] h-[10%] w-[20%] my-2' src='/images/logo.png' />
   
     <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
-      <a className="mr-5 hover:text-gray-900">Home</a>
-      <a className="mr-5 hover:text-gray-900">About Us</a>
-      <a className="mr-5 hover:text-gray-900">Events</a>
-      <a className="mr-5 hover:text-gray-900" href='/regenvest'>ReGenVest</a>
+      <a className="mr-5 hover:text-gray-900 hover:cursor-pointer" href='/'>Home</a>
+      <a className="mr-5 hover:text-gray-900 hover:cursor-pointer" href='/about_thrivefi'>About Us</a>
+      {/* <a className="mr-5 hover:text-gray-900 hover:cursor-pointer">Events</a> */}
+      <a className="mr-5 hover:text-gray-900 hover:cursor-pointer" href='/regenvest'>ReGenVest</a>
     </nav>
     <button className="inline-flex items-center bg-red-400 border-0 py-1 px-3 text-white focus:outline-none hover:bg-red-600 rounded text-base mt-4 md:mt-0">Register 
       
