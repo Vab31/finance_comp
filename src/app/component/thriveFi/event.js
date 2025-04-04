@@ -33,7 +33,7 @@ export default function Event() {
             <img
               className="object-cover object-center rounded-2xl"
               alt="hero"
-              src="/images/students.jpeg"
+              src="/images/regenvestimg.jpeg"
             />
           </div>
         </div>
