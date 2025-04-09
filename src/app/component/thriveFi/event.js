@@ -12,13 +12,7 @@ export default function Event() {
               ReGenVest Essay Competition
             </h1>
             <p className="mb-8 leading-relaxed">
-              Our inaugural essay competition invites students to explore and
-              write about critical topics in finance, investment, and financial
-              literacy. This competition aims to foster a deeper understanding
-              of wealth creation, financial planning, and economic trends among
-              young minds. Participants will have the opportunity to showcase
-              their analytical skills, gain industry recognition, and compete
-              for exciting rewards.
+            Our inaugural essay competition invites students to explore and write about critical topics in finance, investment, and financial literacy. This competition aims to foster a deeper understanding of wealth creation, financial planning, and economic trends among young minds. Participants will have the opportunity to showcase their analytical skills, gain industry recognition, and compete for exciting rewards.
             </p>
             <div className="flex justify-center">
             <a href='https://docs.google.com/forms/d/e/1FAIpQLScrDPfVkT2_cd-gPOFke3YqXT1Tp8xfeDH2iQiuzkxuYMhf-g/viewform'>

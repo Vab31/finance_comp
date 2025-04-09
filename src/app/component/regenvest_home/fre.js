@@ -26,7 +26,7 @@ export default function Fre() {
               {
                 question: `01. Who can participate in the competition?`,
                 answer:
-                  `Students from 9 to 12 grades are welcome to participate. The competition is open to all students who are passionate about finance, research, and analytical writing.`,
+                  `The competition is open to students aged 14–18 from any academic background.`,
               },
               {
                 question: 'Q2: Is there a participation fee?',
@@ -36,7 +36,7 @@ export default function Fre() {
               {
                 question: `Q3: What is the word limit for submissions?`,
                 answer:
-                  'Essays should be between 500 to 1000 words, ensuring a well-researched and structured argument.',
+                  'Essays should be between 1500 to 2000 words, ensuring a well-researched and structured argument.',
               },
               {
                 question: 'Q4: What is the last date for submission?',
@@ -51,9 +51,50 @@ export default function Fre() {
               {
                 question: '06: What are the awards and recognition for winners?',
                 answer:
-                  `First Prize: Certificate of Achievement + Media Publication, Second Prize: Certificate of Achievement, Third Prize: Certificate of Achievement
+                  `🥇 First Prize: Certificate of Excellence + Essay publication on the competition website ,
+
+🥈 Second Prize: Certificate of Distinction,
+
+🥉 Third Prize: Certificate of Merit + Box of chocolates,
+
+🎖️ Honorable Mentions: Certificate of Recognition`,
+              },
+              {
+                question: '07: Can I co-author my essay with a friend?',
+                answer:
+                  `No, there is no participation fee. The competition is free and open to all eligible students.`,
+              },
+              {
+                question: '08: Are there specific topics to choose from?',
+                answer:
+                  `Yes. Each essay must address one of the given topics and present a well-structured, research-backed argument.
 
 `,
+              },
+              {
+                question: '09:What referencing style should I use?',
+           
+                answer:`You may use either the Harvard or APA referencing style.`,
+              },
+              {
+                question: '10:Can I include my name or personal details in the essay?',
+           
+                answer:`No. To ensure impartial judging, your name or any identifying information must NOT appear in the essay document.`,
+              },
+              {
+                question: '11:What are the judging criteria?',
+           
+                answer:`Essays will be evaluated based on:
+
+Depth of Analysis (30%),
+
+Argumentation & Structure (25%),
+
+Use of Evidence & Research (20%),
+
+Originality & Creativity (15%),
+
+Writing Style & Clarity (10%)`,
               },
             ].map((item, index) => (
               <div

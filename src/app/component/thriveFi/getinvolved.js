@@ -10,13 +10,7 @@ export default function Getinvolve() {
               Get Involved
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-              Join us in empowering individuals with essential financial
-              knowledge and skills. Whether you're a student looking to enhance
-              your financial literacy, a school or community eager to provide
-              valuable education, or a sponsor or speaker wanting to make an
-              impact, there’s a place for you in our mission. Together, we can
-              create opportunities for learning, growth, and financial
-              empowerment.
+            Join us in empowering individuals with essential financial knowledge and skills. Whether you're a student looking to enhance your financial literacy, a school or community eager to provide valuable education, or a sponsor or speaker ready to make an impact — there's a place for you in our mission. Together, we can create opportunities for learning, growth, and lasting financial empowerment.
             </p>
           </div>
           <div className="flex flex-wrap -m-4 text-center">
@@ -39,8 +33,7 @@ export default function Getinvolve() {
                   For Students
                 </h2>
                 <p className="leading-relaxed py-1.5">
-                  Participant in our events to lern and grow you financial
-                  knowledge
+                Participate in our events to learn and grow your financial knowledge.
                 </p>
               </div>
             </div>
@@ -89,8 +82,7 @@ export default function Getinvolve() {
                 </h2>
                 <p className="leading-relaxed">
                   {" "}
-                  Partner with us to bring financial education programs to your
-                  studnets
+                  Partner with us to bring financial education programs to your students.
                 </p>
               </div>
             </div>
@@ -131,10 +123,10 @@ export default function Getinvolve() {
                   />
                 </svg>
                 <h2 className="title-font font-medium text-3xl text-gray-900">
-                  For Sponsors & Speakers
+                For Sponsors & Speakers
                 </h2>
                 <p className="leading-relaxed">
-                  Support and contribute to our mission of financial literacy
+                Support and contribute to our mission of promoting financial literacy.
                 </p>
               </div>
             </div>

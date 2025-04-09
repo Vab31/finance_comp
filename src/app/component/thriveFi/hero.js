@@ -9,7 +9,7 @@ export default function Hero() {
       <h1 className="title-font sm:text-4xl text-3xl mb-4 font-extrabold text-gray-900">Empowering Students
         <br className="hidden lg:inline-block"/>Through Financial Education
       </h1>
-      <p className="mb-8 leading-relaxed">ThriveFi is a small organization dedicated to enhancing financial literacy by organizing events in collaboration with schools and communities.</p>
+      <p className="mb-8 leading-relaxed">A 3C-focused finance organization operating across the United States of America and India made significant strides through its initiative, ThriveFi. Focused on promoting financial literacy, ThriveFi conducted interactive workshops and competitions that engaged finance students and professionals alike. In addition to educational outreach, ThriveFi led consulting efforts by carrying out comprehensive financial analyses to identify budget gaps and inefficiencies, providing strategic recommendations to enhance budget management and financial planning. </p>
       <div className="flex justify-center">
         {/* <button className="inline-flex text-white bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-950 rounded-xl text-lg">Learn More</button> */}
       </div>
