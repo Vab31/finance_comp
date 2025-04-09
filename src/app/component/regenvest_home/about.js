@@ -15,8 +15,10 @@ export default function Bout() {
       <p class="mb-8 leading-relaxed">The Olive School proudly presents its Finance Essay Competition, designed to encourage young minds to explore the dynamic world of finance. Rooted in our core values of lifelong learning, inclusive education, and personalized growth, this competition challenges students to think critically, research deeply, and articulate their ideas on key financial topics.
 <br/>
 Competition Details:<br/>
-📅 <b className='font-extrabold text-black'>Duration: 8-12 weeks</b> <br/>
-🔍 <b className='font-extrabold text-black'>Checkpoints: Monthly review sessions for feedback and guidance</b>
+📅 <b className='font-extrabold text-black'>Speaker Sessions Date: Saturday and Sunday,
+
+May 17 and 18</b> <br/>
+🔍 <b className='font-extrabold text-black'>Competition Format: Finance ESSAY writing</b>
 <br/>
 This competition is more than just a contest—it's an opportunity for students to develop essential writing and analytical skills, preparing them for real-world financial literacy.</p>
       {/* <div class="flex justify-center">

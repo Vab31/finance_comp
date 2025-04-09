@@ -41,12 +41,19 @@ export default function Fre() {
               {
                 question: 'Q4: What is the last date for submission?',
                 answer:
-                  'The final submission deadline is [mention the exact date]. Participants are encouraged to submit their essays before the deadline to allow for any revisions if needed.',
+                  'The final submission deadline is May 18, 2025. Participants are encouraged to submit their essays before the deadline to allow for any revisions if needed.',
               },
               {
                 question: '05: When will the winners be announced?',
                 answer:
-                  `The winners will be announced on [mention announcement date], following a thorough evaluation by our panel of judges. Keep an eye on our website and official communications for updates!`,
+                  `The winners will be announced on June 1, 2025, following a thorough evaluation by our panel of judges. Keep an eye on our website and official communications for updates!`,
+              },
+              {
+                question: '06: What are the awards and recognition for winners?',
+                answer:
+                  `First Prize: Certificate of Achievement + Media Publication, Second Prize: Certificate of Achievement, Third Prize: Certificate of Achievement
+
+`,
               },
             ].map((item, index) => (
               <div

@@ -7,7 +7,7 @@ export default function Footer() {
   <div class="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
   <img className='sm:w-[10%] h-[10%] w-[20%] my-2' src='/images/logo.png' />
 
-    <p class="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2025 ThriveFi —
+    <p class="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2025 ThriveFi 
       <a href="https://twitter.com/knyttneve" class="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank"></a>
     </p>
     <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">

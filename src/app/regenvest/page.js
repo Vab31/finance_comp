@@ -5,7 +5,7 @@ import Bout from '../component/regenvest_home/about'
 import Time from '../component/regenvest_home/time'
 import Downhero from '../component/regenvest_home/downhero'
 import Fre from '../component/regenvest_home/fre'
-import Footer from '../component/footer'
+import Footer from '../component/thriveFi/footer'
 
 export default function Page() {
   return (

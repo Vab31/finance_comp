@@ -11,7 +11,7 @@ export default function Hero() {
       </h1>
       <p className="mb-8 leading-relaxed">ThriveFi is a small organization dedicated to enhancing financial literacy by organizing events in collaboration with schools and communities.</p>
       <div className="flex justify-center">
-        <button className="inline-flex text-white bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-950 rounded-xl text-lg">Learn More</button>
+        {/* <button className="inline-flex text-white bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-950 rounded-xl text-lg">Learn More</button> */}
       </div>
     </div>
     <div className="lg:max-w-lg lg:w-full rounded-2xl md:w-1/2 w-5/6">
