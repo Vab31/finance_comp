@@ -5,7 +5,7 @@ import React from 'react'
 export default function Nav() {
   return (
     <div>
-        <header className="text-gray-600 body-font">
+        <header className="text-gray-600 body-font bg-white">
   <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
    
      <img className='sm:w-[10%] h-[10%] w-[20%] my-2' src='/images/logo.png' />
