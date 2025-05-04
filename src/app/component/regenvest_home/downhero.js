@@ -9,7 +9,7 @@ export default function Downhero() {
         </h2>
         <div class="md:pl-6">
           <p class="leading-relaxed text-base">
-          The Olive School Finance Essay Competition invites students to delve into the foundations of finance and envision its future. By drawing insights from industry experts, real-world users, and key stakeholders, participants will explore critical financial concepts, trends, and innovations. This competition fosters analytical thinking, research skills, and a deeper understanding of finance—empowering students to contribute meaningfully to the evolving financial landscape.
+            The ReGenVest Finance Challenge 2025 is a unique opportunity for students to engage with the world of finance and sustainability. By participating in this competition, students will not only enhance their knowledge and skills but also contribute to the global conversation on sustainable finance. We encourage all students to take part in this exciting event and showcase their talents.
           </p>
         </div>
       </div>

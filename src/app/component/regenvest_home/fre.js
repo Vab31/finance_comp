@@ -26,7 +26,8 @@ export default function Fre() {
               {
                 question: `01. Who can participate in the competition?`,
                 answer:
-                  `The competition is open to students aged 14–18 from any academic background.`,
+                  `The competition is open to students from Grades
+ IX to XII across India`,
               },
               {
                 question: 'Q2: Is there a participation fee?',
@@ -51,13 +52,10 @@ export default function Fre() {
               {
                 question: '06: What are the awards and recognition for winners?',
                 answer:
-                  `🥇 First Prize: Certificate of Excellence + Essay publication on the competition website ,
-
-🥈 Second Prize: Certificate of Distinction,
-
-🥉 Third Prize: Certificate of Merit + Box of chocolates,
-
-🎖️ Honorable Mentions: Certificate of Recognition`,
+                  `First Prize: Certificate of Achievement + Essay Publication in a reputed
+ finance media outlet,
+ Second & Third Prize: Certificate of Achievement,
+ All Participants: Certificate of Participation`,
               },
               {
                 question: '07: Can I co-author my essay with a friend?',

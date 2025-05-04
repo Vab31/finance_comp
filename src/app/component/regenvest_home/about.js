@@ -17,20 +17,20 @@ export default function Bout() {
               Why To Participate
               <br className="hidden lg:inline-block" />
             </h1>
-            <p className="mb-8 leading-relaxed">
-              The Olive School proudly presents its Finance Essay Competition, designed to encourage
-              young minds to explore the dynamic world of finance. Rooted in our core values of
-              lifelong learning, inclusive education, and personalized growth, this competition
-              challenges students to think critically, research deeply, and articulate their ideas
-              on key financial topics.
+            <p className="mb-4 leading-relaxed">
+              The Olive School proudly presents its Finance Essay Competition. The competition aims to engage young minds in meaningful discourse on real
+world issues involving finance, sustainability, and economic strategy.
+ Participants will explore the evolving landscape of sustainable finance through
+ a thought-provoking essay competition that challenges critical thinking,
+ research, and analytical reasoning.
             </p>
             <div className="mb-8 leading-relaxed text-left">
-              <p>
+              {/* <p>
                 📅{' '}
                 <span className="font-extrabold text-black">
                   Speaker Sessions Date: Saturday and Sunday, May 17 and 18
                 </span>
-              </p>
+              </p> */}
            
               <p>
                 🔍{' '}
@@ -61,9 +61,9 @@ export default function Bout() {
                 </li>
               </ol>
               <p className="mt-4">
-                This competition is more than just a contest—it's an opportunity for students to
-                develop essential writing and analytical skills, preparing them for real-world
-                financial literacy.
+              We believe that participation from your school would significantly contribute
+ to the vibrancy of the event and provide an excellent opportunity for your
+ students to showcase their talent on a national platform
               </p>
             </div>
           </div>
