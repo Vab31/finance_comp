@@ -12,7 +12,8 @@ export default function Hero() {
             Through Financial Education
           </h1>
           <p className="mb-8 leading-relaxed">
-            A 3C-focused finance organization operating across the United States of America and India made significant strides through its initiative, ThriveFi. Focused on promoting financial literacy, ThriveFi conducted interactive workshops and competitions that engaged finance students and professionals alike. In addition to educational outreach, ThriveFi led consulting efforts by carrying out comprehensive financial analyses to identify budget gaps and inefficiencies, providing strategic recommendations to enhance budget management and financial planning.
+          At the core of ThriveFi are our guiding principles—the 3 Cs: Conference, Competition, and Consulting. These pillars reflect our commitment to creating dynamic learning opportunities, encouraging informed dialogue, and providing mentorship to students as they navigate the world of finance. Each “C” has been built in with a missiong and drives the initiatives we create to empower the next generation of financial thinkers.
+
           </p>
           <div className="flex justify-center">
             {/* Uncomment the button below if needed */}

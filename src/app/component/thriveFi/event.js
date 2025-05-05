@@ -12,12 +12,8 @@ export default function Event() {
               ReGenVest Essay Competition
             </h1>
             <p className="mb-8 leading-relaxed">
-            We’re excited to invite your prestigious institution to participate in ReGenVest Finance Challenge 2025, India’s premier senior
- school finance competition. Organized by <b>The Olive School</b>, Thol Kurukshetra,
- in collaboration with ThriveFi—a dedicated platform for finance-focused
- competitions, consulting, and conferences founded by<b> Anvay Arora</b>—this event
- promises to be an exciting and enriching experience for students from Grades
- IX to XII across India.
+            ThriveFi is proud to announce the launch of the ReGenVest Challenge in India, an initiative designed to engage senior students in critical financial thinking. The challenge invites senior school students to write essay on a range of pressing financial topics, encouraging them to explore real-world problems and propose innovative solutions.
+
        </p>
             <div className="flex justify-center">
             <a href='https://docs.google.com/forms/d/e/1FAIpQLScrDPfVkT2_cd-gPOFke3YqXT1Tp8xfeDH2iQiuzkxuYMhf-g/viewform'>

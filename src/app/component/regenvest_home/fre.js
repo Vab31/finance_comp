@@ -26,8 +26,7 @@ export default function Fre() {
               {
                 question: `01. Who can participate in the competition?`,
                 answer:
-                  `The competition is open to students from Grades
- IX to XII across India`,
+                  `Any student in grades IX through XII may participate`,
               },
               {
                 question: 'Q2: Is there a participation fee?',
@@ -35,19 +34,19 @@ export default function Fre() {
                   `No, there is no participation fee. The competition is free and open to all eligible students.`,
               },
               {
-                question: `Q3: What is the word limit for submissions?`,
+                question: `Q3: What are the language requirements and word limits for submissions?`,
                 answer:
-                  'Essays should be between 1500 to 2000 words, ensuring a well-researched and structured argument.',
+                  'The essay must be written in English and must contain between 1,500 and 2,000 words to qualify.',
               },
               {
                 question: 'Q4: What is the last date for submission?',
                 answer:
-                  'The final submission deadline is May 18, 2025. Participants are encouraged to submit their essays before the deadline to allow for any revisions if needed.',
+                  'The final submission deadline is May 25, 2025. Participants are encouraged to submit their essays before the deadline to allow for any revisions if needed.',
               },
               {
                 question: '05: When will the winners be announced?',
                 answer:
-                  `The winners will be announced on June 1, 2025, following a thorough evaluation by our panel of judges. Keep an eye on our website and official communications for updates!`,
+                  `Results will be published on www.thethrivefi.com as well as www.theoliveschool.com websites. A formal communication will also be sent to the school and registsred email addresses by June 6, 2025`,
               },
               {
                 question: '06: What are the awards and recognition for winners?',
@@ -70,14 +69,14 @@ export default function Fre() {
 `,
               },
               {
-                question: '09:What referencing style should I use?',
+                question: '09:Are references or citations required in the essay?',
            
-                answer:`You may use either the Harvard or APA referencing style.`,
+                answer:`Yes, any references to published print or digital media must be cited at the bottom of the essay. Participants may use either APA or Harvard referencing style.`,
               },
               {
                 question: '10:Can I include my name or personal details in the essay?',
            
-                answer:`No. To ensure impartial judging, your name or any identifying information must NOT appear in the essay document.`,
+                answer:`No. Essays must not include any identifying details (name, school, etc.) to maintain impartiality.`,
               },
               {
                 question: '11:What are the judging criteria?',
@@ -93,6 +92,11 @@ Use of Evidence & Research (20%),
 Originality & Creativity (15%),
 
 Writing Style & Clarity (10%)`,
+              },
+              {
+                question: '12:Are there any originality and authenticity requirements for the essay?',
+           
+                answer:`Yes, essays must be original, unpublished, and not written using AI tools. All entries will be checked for plagiarism and AI use; violations will lead to disqualification. Copyrights are respected, but ThriveFi and The Olive School will not be responsible for any infringement.`,
               },
             ].map((item, index) => (
               <div

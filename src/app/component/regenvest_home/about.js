@@ -18,11 +18,14 @@ export default function Bout() {
               <br className="hidden lg:inline-block" />
             </h1>
             <p className="mb-4 leading-relaxed">
-              The Olive School proudly presents its Finance Essay Competition. The competition aims to engage young minds in meaningful discourse on real
+              {/* The Olive School proudly presents its Finance Essay Competition. The competition aims to engage young minds in meaningful discourse on real
 world issues involving finance, sustainability, and economic strategy.
  Participants will explore the evolving landscape of sustainable finance through
  a thought-provoking essay competition that challenges critical thinking,
- research, and analytical reasoning.
+ research, and analytical reasoning. */}
+ ThriveFi is proud to announce the launch of the ReGenVest Challenge in India, an initiative designed to engage senior students in critical financial thinking. The challenge invites senior school students to write essay on a range of pressing financial topics, encouraging them to explore real-world problems and propose innovative solutions.
+
+In collaboration with<b> The Olive School, located in Thol, Distt. Kurukshetra, Haryana,</b> the ReGenVest Challenge offers a unique platform for students to enter the public discourse and have their voices heard. Winning essays will be published, providing students with recognition and a meaningful opportunity to showcase their insights.
             </p>
             <div className="mb-8 leading-relaxed text-left">
               {/* <p>

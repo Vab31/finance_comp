@@ -12,36 +12,36 @@ export default function Page() {
       <h1 className="text-3xl font-bold mb-4">About Us</h1>
 
       <p className="mb-4">
-        <strong className="font-semibold">ThriveFi, we believe that financial literacy is the foundation for personal and professional success.</strong>
+        <strong className="font-semibold">At ThriveFi, our mission is to bring meaningful financial education to students around the world through engaging challenges that delve into the complexities of finance. Founded by Arizona-based high school student Anvay Arora, ThriveFi is stepping onto the global stage by organizing competitions and hosting expert-led discussions to raise awareness and promote literacy in personal and global finance. </strong>
+       <br/>
+         At the core of ThriveFi are our guiding principles—the 3 Cs: Conference, Competition, and Consulting. These pillars reflect our commitment to creating dynamic learning opportunities, encouraging informed dialogue, and providing mentorship to students as they navigate the world of finance. Each “C” has been built in with a missiong and drives the initiatives we create to empower the next generation of financial thinkers.
+
       </p>
 
-      <h2 className="text-2xl font-semibold mb-2">Who We Are</h2>
-
-      <p className="mb-4">
-        A dynamic platform dedicated to bridging the gap between theoretical finance and real-world applications. We bring together finance enthusiasts, students, and industry professionals through engaging discussions, expert-led sessions, and interactive competitions we goal to make financial education more accessible, practical, and impactful.
-      </p>
+   
 
       <h2 className="text-2xl font-semibold mb-2">What We Do</h2>
 
-      <ul className="list-disc list-inside mb-4">
-        <li><span role="img" aria-label="checkmark">✔️</span> Investment strategies and stock market insights</li>
-        <li><span role="img" aria-label="checkmark">✔️</span> Personal finance management and wealth-building techniques</li>
-        <li><span role="img" aria-label="checkmark">✔️</span> Financial technology (FinTech) and emerging trends</li>
-        <li><span role="img" aria-label="checkmark">✔️</span> Case study challenges and real-world problem-solving</li>
-      </ul>
+<ul className="list-disc list-inside mb-4">
+  <li><span role="img" aria-label="checkmark">✔️</span> Organize finance-focused competitions that challenge students to think critically</li>
+  <li><span role="img" aria-label="checkmark">✔️</span> Host global expert-led discussions to promote financial literacy</li>
+  <li><span role="img" aria-label="checkmark">✔️</span> Empower students with real-world consulting experiences and mentorship</li>
+  <li><span role="img" aria-label="checkmark">✔️</span> Deliver accessible, engaging financial education rooted in real-life application</li>
+</ul>
 
-      <h2 className="text-2xl font-semibold mb-2">Our Vision</h2>
+<h2 className="text-2xl font-semibold mb-2">Our Vision</h2>
 
-      <ul className="list-disc list-inside mb-4">
-        <li><span role="img" aria-label="people">👥</span> Expand our expert-led talk series with industry leaders</li>
-        <li><span role="img" aria-label="trophy">🏆</span> Host more finance-related competitions to encourage hands-on learning</li>
-        <li><span role="img" aria-label="building">🏗️</span> Build a stronger community of finance professionals and learners</li>
-        <li><span role="img" aria-label="lightbulb">💡</span> Make financial knowledge accessible to students and young professionals</li>
-      </ul>
+<ul className="list-disc list-inside mb-4">
+  <li><span role="img" aria-label="conference">🎤</span> Expand our global conference series to spark informed financial dialogue</li>
+  <li><span role="img" aria-label="competition">🏆</span> Launch innovative competitions to inspire the next generation of financial leaders</li>
+  <li><span role="img" aria-label="community">🌐</span> Build an inclusive community of finance learners and professionals worldwide</li>
+  <li><span role="img" aria-label="mentor">🤝</span> Provide personalized consulting and mentorship to help students grow</li>
+</ul>
 
-      <p>
-        At ThriveFi, we are more than just a platform—we are a movement towards financial empowerment and informed decision-making.
-      </p>
+<p>
+  At ThriveFi, we are more than just a platform—we are a global initiative led by students, for students.
+</p>
+
     </div>
     <Footer/>
     </div>

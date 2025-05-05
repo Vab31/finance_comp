@@ -9,8 +9,8 @@ export default function Hero() {
           <br class="hidden lg:inline-block"/>By The Olive School
           </h1>
         <p class="mb-4 leading-relaxed text-6xl font-serif text-gray-200">India Edition</p>
-    <p class="mb-3 leading-relaxed text-3xl font-serif text-gray-200">Grades 9-12 Students Can Participate</p>
-    <p class="mb-3 leading-relaxed text-3xl font-serif text-gray-200">Deadline: May 18, 2025</p>
+    <p class="mb-3 leading-relaxed text-3xl font-serif text-gray-200">Student in grades IX through XII may participate</p>
+    <p class="mb-3 leading-relaxed text-3xl font-serif text-gray-200">Deadline: May 25, 2025</p>
 
         <div class="flex justify-center">
         <a href='https://docs.google.com/forms/d/e/1FAIpQLScrDPfVkT2_cd-gPOFke3YqXT1Tp8xfeDH2iQiuzkxuYMhf-g/viewform'>

@@ -10,7 +10,7 @@ export default function Getinvolve() {
               Get Involved
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Join us in empowering individuals with essential financial knowledge and skills. Whether you're a student looking to enhance your financial literacy, a school or community eager to provide valuable education, or a sponsor or speaker ready to make an impact — there's a place for you in our mission. Together, we can create opportunities for learning, growth, and lasting financial empowerment.
+            Join us in empowering individuals with essential financial knowledge and skills. Whether you're a someone looking to enhance your financial literacy, a school or community eager to provide valuable education, or a sponsor or speaker ready to make an impact — there's a place for you in our mission. Together, we can create opportunities for learning, growth, and lasting financial empowerment.
             </p>
           </div>
           <div className="flex flex-wrap -m-4 text-center">

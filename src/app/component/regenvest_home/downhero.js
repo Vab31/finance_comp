@@ -5,7 +5,7 @@ export default function Downhero() {
     <section class="text-gray-600 body-font bg-gray-300">
       <div class="container px-5 py-24 mx-auto flex flex-wrap">
         <h2 class="sm:text-3xl text-2xl text-gray-900  title-font mb-2 md:pl-6 font-bold ">
-        Exploring the building blocks shaping the future of finance — with insights from experts, users, and key partners.
+        Empowering Future Financial Leaders — through expert insights, student voices, and impactful partnerships like the ReGenVest Challenge.
         </h2>
         <div class="md:pl-6">
           <p class="leading-relaxed text-base">
