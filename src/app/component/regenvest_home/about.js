@@ -38,8 +38,10 @@ In collaboration with<b> The Olive School, located in Thol, Distt. Kurukshetra, 
               <p>
                 🔍{' '}
                 <span className="font-extrabold text-black">
-                  Competition Format: Essay Competition to choose from 1 out of 3 topics
+                ESSAY TOPICS <br/>
                 </span>
+                You can choose one of the following topics:
+
               </p>
               <ol className="list-decimal list-inside mt-2 space-y-2 text-left">
                 <li>
