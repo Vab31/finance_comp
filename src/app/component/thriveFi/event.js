@@ -19,7 +19,7 @@ export default function Event() {
             <a href='https://docs.google.com/forms/d/e/1FAIpQLScrDPfVkT2_cd-gPOFke3YqXT1Tp8xfeDH2iQiuzkxuYMhf-g/viewform'>
 
               <button className="inline-flex text-white bg-gray-800 border-0  py-2 px-6 focus:outline-none hover:bg-gray-950 rounded-xl text-lg">
-                Register Now
+                Submit
               </button>
               </a>
               <a href='/regenvest'>

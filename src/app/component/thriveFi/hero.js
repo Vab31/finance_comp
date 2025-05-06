@@ -12,7 +12,7 @@ export default function Hero() {
             Through Financial Education
           </h1>
           <p className="mb-8 leading-relaxed">
-          At the core of ThriveFi are our guiding principles—the 3 Cs: Conference, Competition, and Consulting. These pillars reflect our commitment to creating dynamic learning opportunities, encouraging informed dialogue, and providing mentorship to students as they navigate the world of finance. Each “C” has been built in with a missiong and drives the initiatives we create to empower the next generation of financial thinkers.
+          At the core of ThriveFi are our guiding principles—the 3 Cs: Conference, Competition, and Consulting. These pillars reflect our commitment to creating dynamic learning opportunities, encouraging informed dialogue, and providing mentorship to students as they navigate the world of finance. Each “C” has been built in with a mission and drives the initiatives we create to empower the next generation of financial thinkers.
 
           </p>
           <div className="flex justify-center">

@@ -29,9 +29,9 @@ export default function Page() {
   <li><span role="img" aria-label="checkmark">✔️</span> Deliver accessible, engaging financial education rooted in real-life application</li>
 </ul>
 
-<h2 className="text-2xl font-semibold mb-2">Our Vision</h2>
+{/* <h2 className="text-2xl font-semibold mb-2">Our Vision</h2> */}
 
-<ul className="list-disc list-inside mb-4">
+{/* <ul className="list-disc list-inside mb-4">
   <li><span role="img" aria-label="conference">🎤</span> Expand our global conference series to spark informed financial dialogue</li>
   <li><span role="img" aria-label="competition">🏆</span> Launch innovative competitions to inspire the next generation of financial leaders</li>
   <li><span role="img" aria-label="community">🌐</span> Build an inclusive community of finance learners and professionals worldwide</li>
@@ -40,7 +40,7 @@ export default function Page() {
 
 <p>
   At ThriveFi, we are more than just a platform—we are a global initiative led by students, for students.
-</p>
+</p> */}
 
     </div>
     <Footer/>

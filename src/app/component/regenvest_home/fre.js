@@ -59,7 +59,7 @@ export default function Fre() {
               {
                 question: '07: Can I co-author my essay with a friend?',
                 answer:
-                  `No, there is no participation fee. The competition is free and open to all eligible students.`,
+                  `No, each entry must be submitted under a single student's name.`,
               },
               {
                 question: '08: Are there specific topics to choose from?',
