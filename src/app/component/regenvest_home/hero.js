@@ -13,7 +13,7 @@ export default function Hero() {
     <p class="mb-3 leading-relaxed text-3xl font-serif text-gray-200">Deadline: May 25, 2025</p>
 
         <div class="flex justify-center">
-        <a href='https://docs.google.com/forms/d/e/1FAIpQLScrDPfVkT2_cd-gPOFke3YqXT1Tp8xfeDH2iQiuzkxuYMhf-g/viewform'>
+        <a href='https://docs.google.com/forms/d/e/1FAIpQLSdjsiBbhJyug5E96pEzcPRKb5ag06RsDxgu8kbemsRuw88vrA/viewform?usp=header'>
 
           <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Submit</button>
        </a>
