@@ -41,7 +41,7 @@ export default function Fre() {
               {
                 question: 'Q4: What is the last date for submission?',
                 answer:
-                  'The final submission deadline is May 25, 2025. Participants are encouraged to submit their essays before the deadline to allow for any revisions if needed.',
+                  'The final submission deadline is May 30, 2025. Participants are encouraged to submit their essays before the deadline to allow for any revisions if needed.',
               },
               {
                 question: '05: When will the winners be announced?',

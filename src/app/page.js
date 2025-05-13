@@ -8,6 +8,7 @@ import Image from "next/image";
 // import Fre from "./component/regenvest_home/fre";
 
 import Page from "./thrivefi_home/page";
+import FlashBanner from "./component/regenvest_home/flashbanner";
 
 
 export default function Home() {
@@ -20,6 +21,7 @@ export default function Home() {
      <Downhero/>
      <Fre/>
      <Footer/> */}
+     <FlashBanner/>
     
      <Page/>
     </div>
