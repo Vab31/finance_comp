@@ -20,7 +20,7 @@ export default function Hero() {
         </div>
       </div>
       <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 border-2 rounded-2xl border-white shadow-amber-100">
-        <img class="object-cover object-center rounded-2xl" alt="hero" src="images/image.png"/>
+        <img class="object-cover object-center rounded-2xl" alt="hero" src="images/slogo.png"/>
       </div>
     </div>
   </section>
