@@ -14,6 +14,7 @@ export default function Nav() {
         <a className="mr-5 hover:text-gray-900 hover:cursor-pointer" href="/">Home</a>
         <a className="mr-5 hover:text-gray-900 hover:cursor-pointer" href="/about_thrivefi">About Us</a>
         <a className="mr-5 hover:text-gray-900 hover:cursor-pointer" href="/regenvest">ReGenVest</a>
+        <a className="mr-5 hover:text-gray-900 hover:cursor-pointer" href="/speaker">Conference</a>
       </nav>
 
       <a href="https://docs.google.com/forms/d/e/1FAIpQLScrDPfVkT2_cd-gPOFke3YqXT1Tp8xfeDH2iQiuzkxuYMhf-g/viewform">
