@@ -41,12 +41,12 @@ export default function Fre() {
               {
                 question: 'Q4: What is the last date for submission?',
                 answer:
-                  'The final submission deadline is May 30, 2025. Participants are encouraged to submit their essays before the deadline to allow for any revisions if needed.',
+                  'The final submission deadline is June 20, 2025. Participants are encouraged to submit their essays before the deadline to allow for any revisions if needed.',
               },
               {
                 question: '05: When will the winners be announced?',
                 answer:
-                  `Results will be published on www.thethrivefi.com as well as www.theoliveschool.com websites. A formal communication will also be sent to the school and registered email addresses by June 6, 2025`,
+                  `Results will be published on www.thethrivefi.com as well as www.theoliveschool.com websites. A formal communication will also be sent to the school and registered email addresses by June 26, 2025`,
               },
               {
                 question: '06: What are the awards and recognition for winners?',

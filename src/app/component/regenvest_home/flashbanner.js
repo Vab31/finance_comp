@@ -18,7 +18,7 @@ export default function FlashBanner() {
         <strong>ReGenVest Challenge</strong> by The Olive School
         </p>
         <p>
-          Deadline: <strong>May 30, 2025</strong>
+         Deadline: <strong>June 20, 2025</strong>
         </p>
       </div>
 

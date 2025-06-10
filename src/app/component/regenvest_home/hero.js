@@ -10,7 +10,7 @@ export default function Hero() {
           </h1>
         <p class="mb-4 leading-relaxed text-6xl font-serif text-gray-200">India Edition</p>
     <p class="mb-3 leading-relaxed text-3xl font-serif text-gray-200">Student in grades IX through XII may participate</p>
-    <p class="mb-3 leading-relaxed text-3xl font-serif text-gray-200">Deadline: May 30, 2025</p>
+    <p class="mb-3 leading-relaxed text-3xl font-serif text-gray-200">Deadline: June 20, 2025</p>
 
         <div class="flex justify-center">
         <a href='https://docs.google.com/forms/d/e/1FAIpQLSdjsiBbhJyug5E96pEzcPRKb5ag06RsDxgu8kbemsRuw88vrA/viewform?usp=header'>
