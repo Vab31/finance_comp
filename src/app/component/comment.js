@@ -12,7 +12,7 @@ export default function CommentSection() {
   }, []);
 
   const fetchComments = async () => {
-    const res = await axios.get('http://localhost:5000/api/comments');
+    const res = await axios.get('https://comment-be.onrender.com/api/comments');
     setComments(res.data);
   };
 
@@ -20,7 +20,8 @@ export default function CommentSection() {
     e.preventDefault();
     if (!formData.name || !formData.comment) return;
 
-    await axios.post('http://localhost:5000/api/comments', formData);
+    await axios.post('https://comment-be.onrender.com/api/comments', formData);
+    // await axios.post('http://localhost:5000/api/comments', formData);
     setFormData({ name: '', comment: '' });
     fetchComments();
   };
