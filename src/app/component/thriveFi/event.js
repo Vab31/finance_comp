@@ -16,12 +16,12 @@ export default function Event() {
 
        </p>
             <div className="flex justify-center">
-            <a href='https://docs.google.com/forms/d/e/1FAIpQLSdjsiBbhJyug5E96pEzcPRKb5ag06RsDxgu8kbemsRuw88vrA/viewform?usp=header'>
+            {/* <a href='https://docs.google.com/forms/d/e/1FAIpQLSdjsiBbhJyug5E96pEzcPRKb5ag06RsDxgu8kbemsRuw88vrA/viewform?usp=header'>
 
               <button className="inline-flex text-white bg-gray-800 border-0  py-2 px-6 focus:outline-none hover:bg-gray-950 rounded-xl text-lg">
                 Submit
               </button>
-              </a>
+              </a> */}
               <a href='/regenvest'>
               <button className="inline-flex text-white bg-gray-800 border-0 mx-2 py-2 px-6 focus:outline-none hover:bg-gray-950 rounded-xl text-lg">
                 Learn More

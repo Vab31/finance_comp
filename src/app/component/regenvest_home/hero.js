@@ -13,10 +13,10 @@ export default function Hero() {
     <p class="mb-3 leading-relaxed text-3xl font-serif text-gray-200">Deadline: June 20, 2025</p>
 
         <div class="flex justify-center">
-        <a href='https://docs.google.com/forms/d/e/1FAIpQLSdjsiBbhJyug5E96pEzcPRKb5ag06RsDxgu8kbemsRuw88vrA/viewform?usp=header'>
+        {/* <a href='https://docs.google.com/forms/d/e/1FAIpQLSdjsiBbhJyug5E96pEzcPRKb5ag06RsDxgu8kbemsRuw88vrA/viewform?usp=header'>
 
           <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Submit</button>
-       </a>
+       </a> */}
         </div>
       </div>
       <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 border-2 rounded-2xl border-white shadow-amber-100">

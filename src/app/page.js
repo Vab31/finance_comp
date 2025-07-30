@@ -21,7 +21,7 @@ export default function Home() {
      <Downhero/>
      <Fre/>
      <Footer/> */}
-     <FlashBanner/>
+     {/* <FlashBanner/> */}
     
      <Page/>
     </div>
